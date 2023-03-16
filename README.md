@@ -1,4 +1,4 @@
-<p align="center"><a href="https://alenight.github.io"><img width="100%" alt="Yo." src="./banner.png"/></a></p>
+<p align="center"><a href="https://alenight.github.io"><img width="100%" alt="Yo." src="./assets/banner.png"/></a></p>
 
 - 🔭 Actualmente trabajo en 
 - 🌱 Estoy aprendiendo JavaScript y C#
