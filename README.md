@@ -4,7 +4,7 @@
 - 🌱 Estoy aprendiendo JavaScript, C# y Python
 - 💬 Preguntenme sobre Kotlin en Android
 - 📫 ¿Cómo contactarme?: alejofermir317@gmail.com
-- ⚡ Dato curioso: El tema claro es mejor para la concentración, pero no para el cansancio.
+- ⚡ Dato curioso: El tema claro es mejor para la concentración.
 
 <h3>Lenguajes</h3>
 <p align="left">
