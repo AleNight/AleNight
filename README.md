@@ -1,10 +1,10 @@
 <p align="center"><a href="https://alenight.github.io"><img width="100%" alt="Yo." src="./assets/banner.png"/></a></p>
 
-- 🔭 Actualmente trabajo en un proyecto hecho con WinUI 3
-- 🌱 Estoy aprendiendo JavaScript y C#
+- 🔭 Actualmente trabajo en un proyecto hecho con Jetpack Compose
+- 🌱 Estoy aprendiendo JavaScript, C# y Python
 - 💬 Preguntenme sobre Kotlin en Android
 - 📫 ¿Cómo contactarme?: alejofermir317@gmail.com
-- ⚡ Dato curioso: El tema claro es mejor para la concentración.
+- ⚡ Dato curioso: El tema claro es mejor para la concentración, pero no para el cansancio.
 
 <h3>Lenguajes</h3>
 <p align="left">
